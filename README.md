@@ -283,6 +283,6 @@ www.linkedin.com/in/aatish-kumar-baitha-ba9523191
 https://computersciencedatascience.blogspot.com/
 
 ### 👉 PLEASE CLICK ON .ipynb file to see original view of this project.
-### 👉 https://github.com/Aatishkb/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis_Project%20(1).ipynb
+### 👇 https://github.com/Aatishkb/Diwali-Sales-Analysis/blob/main/Diwali_Sales_Analysis_Project%20(1).ipynb
 
 ### Thank you!
